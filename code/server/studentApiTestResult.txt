@@ -1,0 +1,119 @@
+Server listening at http://localhost:3001
+
+
+  test scenarios 1-1 1-2 1-3 
+    ✔ adding a new SKU
+    ✔ adding a new SKU
+    ✔ modifying sku position
+    ✔ modifying sku weight and volume
+    ✔ modifying sku weight and volume
+
+  test scenario 10
+    ✔ modifyState
+    ✔ modifyState
+
+  test scenarios 11-1 11-2
+    ✔ adding a new Item
+    ✔ adding a new Item
+    ✔ adding a new Item
+    ✔ adding a new Item
+    ✔ adding a new Item
+    ✔ adding a new Item
+    ✔ adding a new Item
+    ✔ adding a new Item
+    ✔ adding a new Item
+    ✔ adding a new Item
+    ✔ modifying Item by Id
+    ✔ modifying Item by Id
+    ✔ modifying Item by Id
+    ✔ modifying Item by Id
+    ✔ modifying Item by Id
+    ✔ modifying Item by Id
+
+  test scenarios 12-1 12-2 12-3
+    ✔ adding a new Test Descriptor
+    ✔ adding a new Test Descriptor
+    ✔ adding a new Test Descriptor
+    ✔ adding a new Test Descriptor
+    ✔ modifying Test Descriptor by Id
+    ✔ modifying Test Descriptor by Id
+    ✔ modifying Test Descriptor by Id
+    ✔ modifying Test Descriptor by Id
+    ✔ delete Test Descriptor
+    ✔ delete Test Descriptor
+    ✔ delete Test Descriptor
+
+  test scenarios 2-1 2-2 2-3 2-4 2-5 
+    ✔ adding a new Position
+    ✔ adding a new Position
+    ✔ modifying a Position ID
+    ✔ modifying a Position ID
+    ✔ modifying a Position ID
+    ✔ modifying weight and volume
+    ✔ modifying weight and volume
+    ✔ modifying weight and volume
+    ✔ modifying weight and volume
+    ✔ modifying aisle,row,col
+    ✔ modifying aisle,row,col
+    ✔ modifying aisle,row,col
+    ✔ modifying aisle,row,col
+    ✔ delete position
+    ✔ delete position
+    ✔ delete position
+
+  test scenarios 3-2
+    ✔ addingRO2
+
+  test scenarios 4-1 4-2 4-3 
+    ✔ adding a new user (224ms)
+    ✔ adding a new user
+    ✔ adding a new user
+    ✔ adding a new user
+    ✔ modifying a user
+    ✔ modifying a user
+    ✔ modifying a user
+    ✔ deleting user
+    ✔ deleting user
+    ✔ deleting user
+
+  test scenario 5-1-1
+    ✔ updating Delivered state
+    ✔ updating Delivered state invalid
+    ✔ updating Delivered state invalid
+    ✔ updating Delivered state invalid
+    ✔ updating Delivered state invalid
+
+  test scenario 5-2-1 5-2-2 5-2-3
+    ✔ updating Delivered state to tested
+    ✔ updating Delivered state to tested invalid
+    ✔ updating Delivered state to tested invalid
+    ✔ updating Delivered state to tested invalid
+    ✔ updating Delivered state to tested invalid
+
+  test scenarios 5.3
+    ✔ stock skuItems
+    ✔ stock skuItems
+    ✔ stock skuItems
+    ✔ stock zero SKU items of a RO
+    ✔ stock zero SKU items of a RO
+    ✔ stock zero SKU items of a RO
+    ✔ Stock some SKU items of a RO
+    ✔ Stock some SKU items of a RO
+    ✔ Stock some SKU items of a RO
+
+  test scenarios 6-1 6-2
+    ✔ new Return Order
+    ✔ new Return Order
+
+  test scenarios 7-1 7-2
+    ✔ test manager Login
+    ✔ test manager Logout
+
+  test scenario 9-1 9-2 9-3
+    ✔ modifyIOState (226ms)
+    ✔ modifyIOState (230ms)
+    ✔ modifyIOState (226ms)
+
+
+  87 passing (4s)
+
